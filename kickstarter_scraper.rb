@@ -1,4 +1,4 @@
-require_relative nokogiri
+require 'nokogiri'
 
 # require libraries/modules here
 
